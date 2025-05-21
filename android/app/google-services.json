@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417925385127",
+    "project_id": "chirpbyte",
+    "storage_bucket": "chirpbyte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417925385127:android:d9a2482eb9e79804f24482",
+        "android_client_info": {
+          "package_name": "com.chirpbyte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWT2g77ni8VUa1asgY3vYx8R60aaU82A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
